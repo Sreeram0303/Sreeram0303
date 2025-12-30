@@ -1,23 +1,23 @@
 # 💫 About Me:
-[cite_start]I am a Specialist Programmer at Infosys and a B.Tech graduate in AI & Robotics[cite: 76, 79]. [cite_start]I specialize in engineering decentralized Agentic AI systems and scalable RAG pipelines[cite: 85, 109].
+ I am a Specialist Programmer at Infosys and a B.Tech graduate in AI & Robotics. I specialize in engineering decentralized Agentic AI systems and scalable RAG pipelines.
 
-🔭 **I’m currently working on**
-[cite_start]Decentralized Agent-to-Agent (A2A) frameworks using LangGraph and Google ADK, and building production-grade RAG pipelines with ChromaDB[cite: 85, 109]. 
+🔭 I’m currently working on
+ Decentralized Agent-to-Agent (A2A) frameworks using LangGraph and Google ADK, and building production-grade RAG pipelines with ChromaDB. 
 
-👯 **I’m looking to collaborate on**
-[cite_start]Innovative Generative AI projects, LLM orchestration tools, or full-stack applications using FastAPI and React[cite: 105, 109, 110]. 
+👯 I’m looking to collaborate on
+ Innovative Generative AI projects, LLM orchestration tools, or full-stack applications using FastAPI and React. 
 
-🤝 **I’m looking for help with**
-[cite_start]Advanced Model Context Protocol (MCP) implementations and optimizing distributed execution latency using LangFuse[cite: 86, 109]. 
+🤝 I’m looking for help with
+ Advanced Model Context Protocol (MCP) implementations and optimizing distributed execution latency using LangFuse. 
 
-🌱 **I’m currently learning**
-[cite_start]Human-in-the-Loop (HITL) workflows for autonomous agents and advanced containerization with Docker[cite: 86, 109]. 
+🌱 I’m currently learning
+ Human-in-the-Loop (HITL) workflows for autonomous agents and advanced containerization with Docker. 
 
-💬 **Ask me about**
-[cite_start]Python, building Autonomous Agents, Deep Learning (EfficientNet/YOLOv8), and Computer Vision research[cite: 95, 98, 109]. 
+💬 Ask me about
+ Python, building Autonomous Agents, Deep Learning (EfficientNet/YOLOv8), and Computer Vision research. 
 
-⚡ **Fun fact**
-[cite_start]I published a research paper on Deep Learning for disease classification in IEEE while I was still an intern[cite: 96]!
+⚡ Fun fact
+ I published a research paper on Deep Learning for disease classification in IEEE while I was still an intern!
 
 
 ## 🌐 Socials:
